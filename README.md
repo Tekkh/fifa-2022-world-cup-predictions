@@ -1,5 +1,6 @@
 # FIFA-2022-world-cup-predictions
 I used Machine Learning to make a model using pandas, pickle, and poisson distribution to predict the results of FIFA 2022 World Cup.
+
 # FIFA World Cup 2022 Winner Predictions
 
 ## Goal
